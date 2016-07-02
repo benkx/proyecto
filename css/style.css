@@ -159,11 +159,7 @@ article{
 	width: 222%;
 }*/
 
-#bio{
-	background: #CFD8DC;
 
-
-}
 #bio .box2{
 	display: inline-block;
 	text-align: center;
@@ -181,7 +177,12 @@ article{
 	
 }*/
 
+#contac{
+	background: #CFD8DC;
+	padding: 200px;
 
+
+}
 
 .conteiner{
 	position: relative;
