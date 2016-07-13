@@ -170,17 +170,24 @@ article{
 	line-height: 1;
 
 }
-/*.linear{
-	display: inline-block;
-	position: absolute;
-	flex-direction: 346px;
+#linear{
 	
-}*/
+	color: #F44336;
+	font-size: 48px	
+}
 
 #contac{
 	background: #CFD8DC;
-	padding: 200px;
+	padding: 130px;
 
+
+}
+
+#linear2{
+	
+	color: #F44336;
+	font-size: 18px
+		
 
 }
 
