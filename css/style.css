@@ -19,7 +19,7 @@ header{
 	position: fixed;	
 	width: 100%;
 	padding: 10px 0;
-	background-color: rgba(48, 48, 48, 0.5);
+	background-color: solid;
 	line-height: 1;
 
 }
@@ -46,7 +46,7 @@ header nav a{
 	margin-right: 20px;
 	
 	
-	color: white;
+	color: #1976D2;
 	/*color:  #1976D2;*/
 }
 
